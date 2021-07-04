@@ -1,0 +1,16 @@
+1.txt
+aaab
+ababa
+a@aab
+
+2.txt
+ab
+a@b
+aaab
+abab
+
+3.txt
+a.aa
++a.a
++a@.@a
++aa.aa
